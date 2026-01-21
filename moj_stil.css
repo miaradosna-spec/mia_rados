@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: black;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 16px;
+	line-height: 20px;
+	width: 800px;
+	padding: 20px;
+}
+h1, h2 {
+	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: rgba(88,65,46,1.00);
+	
+}
+a:link {
+	color:black;
+	background-color: wheat;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover {
+	color:saddlebrown;
+}
+.pozadina{
+	background-color:burlywood;
+}
+.tekst{
+	border:dotted;
+	width: 800px
+}
+.fun-facts{
+	background-color: wheat
+}
+.citat{
+	background-color: wheat;
+	width: 800px;
+}
+.drugapozadina{
+	background-color: palegoldenrod
+}
