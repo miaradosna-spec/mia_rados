@@ -49,7 +49,7 @@ p{ color: rgba(51,27,9,1.00);
     box-shadow: 0 0 10px rgba(0,0,0,0.3); 
 }
 .pozadina{
-	background-image: url("datoteke/pozadina.png");
+	background-image: url("datoteke/slike/pozadina.png");
     background-size: cover;     
 	background-attachment: fixed; 
     background-position: center;  
